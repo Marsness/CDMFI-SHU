@@ -1,5 +1,5 @@
 # CDMFI-SHU
-A multi-focus image dataset for image fusion. CDMFI-SHU contains (a) foreground focused images (b) background focused images (c) ground truth
+A dataset for multi-focus image fusion. CDMFI-SHU contains (a) foreground focused images (b) background focused images (c) ground truth
 <div align=center><img width="608" height="448" src="https://user-images.githubusercontent.com/51189300/149703253-4555380e-2f9e-4909-884d-5df65b5f3bb5.png"/></div>
 
 
